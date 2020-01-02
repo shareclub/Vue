@@ -2,3 +2,15 @@
     margin: 0;
     padding: 0;
 }
+
+.box {
+    width: 650px;
+    height: 650px;
+    background-image: url('../images/皮卡丘.jpg');
+    background-size: cover;
+}
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
